@@ -1,0 +1,15 @@
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\bin\Debug\net6.0\15.10.22_Quizz.exe
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\bin\Debug\net6.0\15.10.22_Quizz.deps.json
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\bin\Debug\net6.0\15.10.22_Quizz.runtimeconfig.json
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\bin\Debug\net6.0\15.10.22_Quizz.dll
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\bin\Debug\net6.0\15.10.22_Quizz.pdb
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\obj\Debug\net6.0\15.10.22_Quizz.csproj.AssemblyReference.cache
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\obj\Debug\net6.0\15.10.22_Quizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\obj\Debug\net6.0\15.10.22_Quizz.AssemblyInfoInputs.cache
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\obj\Debug\net6.0\15.10.22_Quizz.AssemblyInfo.cs
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\obj\Debug\net6.0\15.10.22_Quizz.csproj.CoreCompileInputs.cache
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\obj\Debug\net6.0\15.10.22_Quizz.dll
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\obj\Debug\net6.0\refint\15.10.22_Quizz.dll
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\obj\Debug\net6.0\15.10.22_Quizz.pdb
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\obj\Debug\net6.0\15.10.22_Quizz.genruntimeconfig.cache
+C:\Users\Nini\Source\Repos\quizz2\15.10.22_Quizz\15.10.22_Quizz\obj\Debug\net6.0\ref\15.10.22_Quizz.dll

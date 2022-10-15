@@ -1,0 +1,15 @@
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\bin\Debug\net6.0\TQuiz_Okroshidze.exe
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\bin\Debug\net6.0\TQuiz_Okroshidze.deps.json
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\bin\Debug\net6.0\TQuiz_Okroshidze.runtimeconfig.json
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\bin\Debug\net6.0\TQuiz_Okroshidze.dll
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\bin\Debug\net6.0\TQuiz_Okroshidze.pdb
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\obj\Debug\net6.0\TQuiz_Okroshidze.csproj.AssemblyReference.cache
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\obj\Debug\net6.0\TQuiz_Okroshidze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\obj\Debug\net6.0\TQuiz_Okroshidze.AssemblyInfoInputs.cache
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\obj\Debug\net6.0\TQuiz_Okroshidze.AssemblyInfo.cs
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\obj\Debug\net6.0\TQuiz_Okroshidze.csproj.CoreCompileInputs.cache
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\obj\Debug\net6.0\TQuiz_Okroshidze.dll
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\obj\Debug\net6.0\refint\TQuiz_Okroshidze.dll
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\obj\Debug\net6.0\TQuiz_Okroshidze.pdb
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\obj\Debug\net6.0\TQuiz_Okroshidze.genruntimeconfig.cache
+C:\Users\Nini\source\repos\quizz2\TQuiz_Okroshidze\TQuiz_Okroshidze\obj\Debug\net6.0\ref\TQuiz_Okroshidze.dll
