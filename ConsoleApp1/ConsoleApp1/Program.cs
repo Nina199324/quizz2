@@ -133,3 +133,10 @@
 //    .FirstOrDefault();
 
 //Console.WriteLine($"{groupped.Key} is repeated {groupped.Count()} time(s).");
+
+
+
+var x = 12;
+var y = 13;
+var res = x+y;
+console.writeline(res);
